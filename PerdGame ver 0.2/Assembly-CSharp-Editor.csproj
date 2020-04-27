@@ -80,37 +80,37 @@
      <Compile Include="Assets\BOXOPHOBIC\Utils\Scripts\StyledMaterial\Editor\StyledSpaceDrawer.cs" />
      <Compile Include="Assets\BOXOPHOBIC\Utils\Scripts\StyledMono\Editor\StyledMonoBehaviourEditor.cs" />
  <Reference Include="UnityEditor.TestRunner">
- <HintPath>D:/CMD/Jaar3/GameDesign/PerdGamePrototypes/Prototype0.1/PerdGame ver 0.2/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+ <HintPath>D:/CMD/Jaar3/GameDesign/PerdGamePrototypes/GITHUB/perd-game/PerdGame ver 0.2/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.TestRunner">
- <HintPath>D:/CMD/Jaar3/GameDesign/PerdGamePrototypes/Prototype0.1/PerdGame ver 0.2/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+ <HintPath>D:/CMD/Jaar3/GameDesign/PerdGamePrototypes/GITHUB/perd-game/PerdGame ver 0.2/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>D:/CMD/Jaar3/GameDesign/PerdGamePrototypes/Prototype0.1/PerdGame ver 0.2/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>D:/CMD/Jaar3/GameDesign/PerdGamePrototypes/GITHUB/perd-game/PerdGame ver 0.2/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>D:/CMD/Jaar3/GameDesign/PerdGamePrototypes/Prototype0.1/PerdGame ver 0.2/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>D:/CMD/Jaar3/GameDesign/PerdGamePrototypes/GITHUB/perd-game/PerdGame ver 0.2/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>D:/CMD/Jaar3/GameDesign/PerdGamePrototypes/Prototype0.1/PerdGame ver 0.2/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>D:/CMD/Jaar3/GameDesign/PerdGamePrototypes/GITHUB/perd-game/PerdGame ver 0.2/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>D:/CMD/Jaar3/GameDesign/PerdGamePrototypes/Prototype0.1/PerdGame ver 0.2/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>D:/CMD/Jaar3/GameDesign/PerdGamePrototypes/GITHUB/perd-game/PerdGame ver 0.2/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>D:/CMD/Jaar3/GameDesign/PerdGamePrototypes/Prototype0.1/PerdGame ver 0.2/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>D:/CMD/Jaar3/GameDesign/PerdGamePrototypes/GITHUB/perd-game/PerdGame ver 0.2/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>D:/CMD/Jaar3/GameDesign/PerdGamePrototypes/Prototype0.1/PerdGame ver 0.2/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>D:/CMD/Jaar3/GameDesign/PerdGamePrototypes/GITHUB/perd-game/PerdGame ver 0.2/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>D:/CMD/Jaar3/GameDesign/PerdGamePrototypes/Prototype0.1/PerdGame ver 0.2/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>D:/CMD/Jaar3/GameDesign/PerdGamePrototypes/GITHUB/perd-game/PerdGame ver 0.2/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>D:/CMD/Jaar3/GameDesign/PerdGamePrototypes/Prototype0.1/PerdGame ver 0.2/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>D:/CMD/Jaar3/GameDesign/PerdGamePrototypes/GITHUB/perd-game/PerdGame ver 0.2/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>D:/CMD/Jaar3/GameDesign/PerdGamePrototypes/Prototype0.1/PerdGame ver 0.2/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>D:/CMD/Jaar3/GameDesign/PerdGamePrototypes/GITHUB/perd-game/PerdGame ver 0.2/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>D:/CMD/Unity_instal/2019.2.16f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -311,7 +311,7 @@
  <HintPath>D:/CMD/Unity_instal/2019.2.16f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="nunit.framework">
- <HintPath>D:/CMD/Jaar3/GameDesign/PerdGamePrototypes/Prototype0.1/PerdGame ver 0.2/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+ <HintPath>D:/CMD/Jaar3/GameDesign/PerdGamePrototypes/GITHUB/perd-game/PerdGame ver 0.2/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>D:/CMD/Unity_instal/2019.2.16f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
