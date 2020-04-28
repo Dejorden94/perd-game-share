@@ -31,6 +31,7 @@ public class player_movement : MonoBehaviour
     public Transform target3;
 
     public Transform target4;
+
    void Start() {
        cameraT = Camera.main.transform;
        count = 0;

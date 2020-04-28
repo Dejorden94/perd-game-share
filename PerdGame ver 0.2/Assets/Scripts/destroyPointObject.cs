@@ -8,7 +8,11 @@ public class destroyPointObject : MonoBehaviour
     {
         if (other.gameObject.tag == "Player")
         {
-           Destroy(this.gameObject);
+           Invoke("destroyGameObject", 0.5f);
         }    
+    }
+    void destroyGameObject()
+    {
+        Destroy(this.gameObject);
     }
 }

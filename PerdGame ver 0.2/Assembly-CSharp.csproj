@@ -70,6 +70,7 @@
      <Compile Include="Assets\Scripts\cameraScript.cs" />
      <Compile Include="Assets\Scripts\destroyPointObject.cs" />
      <Compile Include="Assets\Scripts\EndPoint.cs" />
+     <Compile Include="Assets\Scripts\horseAnimation.cs" />
      <Compile Include="Assets\Scripts\MeshGenerator.cs" />
      <Compile Include="Assets\Scripts\missionWaypoint.cs" />
      <Compile Include="Assets\Scripts\moodSwitch.cs" />
