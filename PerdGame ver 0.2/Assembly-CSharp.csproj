@@ -71,6 +71,7 @@
      <Compile Include="Assets\Scripts\destroyPointObject.cs" />
      <Compile Include="Assets\Scripts\EndPoint.cs" />
      <Compile Include="Assets\Scripts\horseAnimation.cs" />
+     <Compile Include="Assets\Scripts\mainMenuStart.cs" />
      <Compile Include="Assets\Scripts\MeshGenerator.cs" />
      <Compile Include="Assets\Scripts\missionWaypoint.cs" />
      <Compile Include="Assets\Scripts\moodSwitch.cs" />
@@ -78,6 +79,7 @@
      <Compile Include="Assets\Scripts\player_movement.cs" />
      <Compile Include="Assets\Scripts\puntenTelling.cs" />
      <Compile Include="Assets\Scripts\RestarScript.cs" />
+     <Compile Include="Assets\Scripts\sceneSwitch.cs" />
      <Compile Include="Assets\Scripts\TimerAndGameOver.cs" />
      <None Include="Assets\BOXOPHOBIC\Skybox Cubemap Extended\Core\Shaders\Skybox Cubemap Extended.shader" />
  <Reference Include="Unity.Timeline.Editor">

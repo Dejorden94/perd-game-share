@@ -56,7 +56,7 @@ public class player_movement : MonoBehaviour
        missionWaypoint nextPoint = GameObject.Find("Waypoint").GetComponent<missionWaypoint>(); 
             if (other.gameObject.tag == "Points")
             {
-                count = count + 100;
+                //count = count + 100;
                 //Debug.Log("Vernedering");
                 SetCountText ();
                 script.SetImage();
