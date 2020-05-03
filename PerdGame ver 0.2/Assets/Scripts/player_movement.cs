@@ -32,12 +32,12 @@ public class player_movement : MonoBehaviour
 
     public Transform target4;
 
-   void Start() {
+   public void Start() {
        cameraT = Camera.main.transform;
        count = 0;
        SetCountText ();
    }
-   void FixedUpdate() {
+   public void FixedUpdate() {
        Vector2 input = new Vector2(Input.GetAxisRaw ("Horizontal"), Input.GetAxisRaw("Vertical"));
        Vector2 inputDir = input.normalized;
        if (inputDir != Vector2.zero){
@@ -52,7 +52,7 @@ public class player_movement : MonoBehaviour
         transform.Translate (transform.forward * currentSpeed * Time.deltaTime, Space.World);
 
    }
-   void OnTriggerEnter(Collider other) {
+   public void OnTriggerEnter(Collider other) {
        missionWaypoint nextPoint = GameObject.Find("Waypoint").GetComponent<missionWaypoint>(); 
             if (other.gameObject.tag == "Points")
             {
@@ -70,7 +70,7 @@ public class player_movement : MonoBehaviour
                 
             }
    }
-    void SetCountText ()
+    public void SetCountText ()
     {
         scoreText.text = "Vernederings punten " + count.ToString();
     }

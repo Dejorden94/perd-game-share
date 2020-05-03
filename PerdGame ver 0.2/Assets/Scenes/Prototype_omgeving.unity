@@ -22437,6 +22437,7 @@ GameObject:
   - component: {fileID: 7186275333935690183}
   - component: {fileID: 7186275333935690182}
   - component: {fileID: 7186275333935690181}
+  - component: {fileID: 7186275333935690184}
   m_Layer: 0
   m_Name: spine.004
   m_TagString: Player
@@ -22518,6 +22519,18 @@ SphereCollider:
   serializedVersion: 2
   m_Radius: 0.004
   m_Center: {x: 0, y: 0.005, z: 0}
+--- !u!114 &7186275333935690184
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7186275333935690180}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 221b10a63b208f64fa967837436bcd39, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!23 &7248795692880570845
 MeshRenderer:
   m_ObjectHideFlags: 0
