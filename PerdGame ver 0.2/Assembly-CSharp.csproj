@@ -95,10 +95,13 @@
     <Compile Include="Assets\Scripts\RestarScript.cs" />
     <Compile Include="Assets\Scripts\sceneSwitch.cs" />
     <Compile Include="Assets\Scripts\TimerAndGameOver.cs" />
+    <None Include="Assets\Assets\Props\LowPolyWater_Pack\Shaders\SeansWater\Shaders\SeansWater_Deferred.shader" />
+    <None Include="Assets\Assets\Props\LowPolyWater_Pack\Shaders\SeansWater\Shaders\SeansWater.shader" />
     <None Include="Assets\Assets\Props\LowPolyTreePack\README.txt" />
     <None Include="Assets\Assets\Props\LowPolyWater_Pack\Shaders\WaterShaded.shader" />
     <None Include="Assets\AurynSky\Desert Pack\READ ME.txt" />
     <None Include="Assets\BOXOPHOBIC\Skybox Cubemap Extended\Core\Shaders\Skybox Cubemap Extended.shader" />
+    <None Include="Assets\Assets\Props\LowPolyWater_Pack\Shaders\SeansWater\ReadMe.txt" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/Richa/OneDrive/Documenten/GitHub/perd-game-share/PerdGame ver 0.2/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
