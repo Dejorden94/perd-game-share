@@ -9,6 +9,7 @@ TagManager:
   - Objective2
   - Objective3
   - Objective4
+  - PointsGround
   layers:
   - Default
   - TransparentFX

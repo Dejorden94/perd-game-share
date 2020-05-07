@@ -2,19 +2,19 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class puntenTelling : MonoBehaviour
+public class puntenTellingHorse : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void OnTriggerEnter(Collider other) 
+   void OnTriggerEnter(Collider other) 
     {
+        Debug.Log("Hallo?");
         player_movement target = GameObject.Find("Player").GetComponent<player_movement>();
 
-        if (other.gameObject.tag == "Points")
+      /*  if (other.gameObject.tag == "PointsGround")
         {
             Debug.Log("PUNTEN!!!");
             target.count = target.count + 100;
             target.SetCountText ();
             target.script.SetImage();
-        }
+        }*/ 
     }
 }
