@@ -8,10 +8,10 @@ public class sceneSwitch : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Invoke("loadScene", 10f);
+        Invoke("loadScene", 48f);
     }
     void loadScene()
     {
-        SceneManager.LoadScene("Game");
+        SceneManager.LoadScene("mainMenu");
     }
 }

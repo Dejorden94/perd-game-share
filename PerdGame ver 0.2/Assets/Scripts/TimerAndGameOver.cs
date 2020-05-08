@@ -25,7 +25,7 @@ public class TimerAndGameOver : MonoBehaviour
         if (countDownStartValue > 0)
         {
             TimeSpan spanTime = TimeSpan.FromSeconds(countDownStartValue); 
-            timerUI.text = "Timer : " + spanTime.Minutes + " : " + spanTime.Seconds;
+            timerUI.text = spanTime.Minutes + " : " + spanTime.Seconds;
             //Debug.Log("Timer: " + countDownStartValue);
             //timer wordt met 1 verlaagt.
             countDownStartValue--;
