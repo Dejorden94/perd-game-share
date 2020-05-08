@@ -88,8 +88,10 @@
      <Compile Include="Assets\Scripts\RestarScript.cs" />
      <Compile Include="Assets\Scripts\sceneSwitch.cs" />
      <Compile Include="Assets\Scripts\SoundEffects\bijenKorf.cs" />
+     <Compile Include="Assets\Scripts\SoundEffects\modder.cs" />
      <Compile Include="Assets\Scripts\SoundEffects\omgevallenBomen.cs" />
      <Compile Include="Assets\Scripts\SoundEffects\wasLijn.cs" />
+     <Compile Include="Assets\Scripts\SoundEffects\water.cs" />
      <Compile Include="Assets\Scripts\TimerAndGameOver.cs" />
      <None Include="Assets\Assets\Props\LowPolyWater_Pack\Shaders\SeansWater\Shaders\SeansWater_Deferred.shader" />
      <None Include="Assets\Assets\Props\LowPolyWater_Pack\Shaders\SeansWater\Shaders\SeansWater.shader" />
