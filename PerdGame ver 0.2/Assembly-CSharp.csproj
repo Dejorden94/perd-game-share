@@ -75,7 +75,9 @@
      <Compile Include="Assets\BOXOPHOBIC\Utils\Scripts\StyledMono\StyledMonoHideScriptField.cs" />
      <Compile Include="Assets\Scripts\cameraScript.cs" />
      <Compile Include="Assets\Scripts\destroyPointObject.cs" />
+     <Compile Include="Assets\Scripts\displayHighScore.cs" />
      <Compile Include="Assets\Scripts\EndPoint.cs" />
+     <Compile Include="Assets\Scripts\highscoreScript.cs" />
      <Compile Include="Assets\Scripts\horseAnimation.cs" />
      <Compile Include="Assets\Scripts\mainMenuStart.cs" />
      <Compile Include="Assets\Scripts\MeshGenerator.cs" />

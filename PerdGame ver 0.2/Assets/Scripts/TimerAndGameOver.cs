@@ -43,6 +43,8 @@ public class TimerAndGameOver : MonoBehaviour
             //haalt de huidige score op uit het mainCharacter object
             player_movement highScore = GameObject.Find("Player").GetComponent<player_movement>();
             timerUI.text = "Game Over!";
+            GameObject.Find("TimeOver").GetComponent<Text>().enabled = true;
+            GameObject.Find("TimeOverBord").GetComponent<Image>().enabled = true;
             //Debug.Log("Game Over!");
             //Maakt de highscore text en de restartknop zichtbaar.
             GameObject.Find("FinalScoreText").GetComponent<Text>().enabled = true;

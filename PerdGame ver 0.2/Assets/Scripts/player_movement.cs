@@ -31,13 +31,21 @@ public class player_movement : MonoBehaviour
     public Transform target3;
 
     public Transform target4;
+     void Awake() 
+    {
+        DontDestroyOnLoad(this.gameObject);    
+    }
 
-   public void Start() {
+   public void Start() 
+   {
        cameraT = Camera.main.transform;
        count = 0;
        SetCountText ();
    }
-   public void FixedUpdate() {
+
+   public void FixedUpdate() 
+   
+   {
        Vector2 input = new Vector2(Input.GetAxisRaw ("Horizontal"), Input.GetAxisRaw("Vertical"));
        Vector2 inputDir = input.normalized;
        if (inputDir != Vector2.zero){
